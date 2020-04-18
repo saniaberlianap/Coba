@@ -5,3 +5,6 @@ nim
 kelas
 
 vokasi
+
+i
+8
