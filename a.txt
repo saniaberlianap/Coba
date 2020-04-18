@@ -1,3 +1,13 @@
 Sania berliana
 
 nim
+
+kelas
+
+vokasi
+
+i
+8
+a
+a
+b
